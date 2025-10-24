@@ -31,7 +31,7 @@
         ],
         "total_cost": 16,
         "operations_count": 40,
-        "execution_time_ms": 1.65625
+        "execution_time_ms": 1.064041
       }
     },
     {
@@ -60,7 +60,7 @@
         ],
         "total_cost": 6,
         "operations_count": 27,
-        "execution_time_ms": 0.027958
+        "execution_time_ms": 0.016667
       }
     },
     {
@@ -94,7 +94,7 @@
         ],
         "total_cost": 17,
         "operations_count": 45,
-        "execution_time_ms": 0.019458
+        "execution_time_ms": 0.012791
       }
     },
     {
@@ -128,7 +128,7 @@
         ],
         "total_cost": 14,
         "operations_count": 33,
-        "execution_time_ms": 0.017875
+        "execution_time_ms": 0.010375
       }
     },
     {
@@ -167,7 +167,7 @@
         ],
         "total_cost": 15,
         "operations_count": 40,
-        "execution_time_ms": 0.015208
+        "execution_time_ms": 0.00975
       }
     }
   ]
